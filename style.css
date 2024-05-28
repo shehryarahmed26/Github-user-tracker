@@ -83,7 +83,9 @@ h3 {
 }
 p {
     font-size: 0.8rem;
-
+.bio {
+    max-width: 60%;
+}
 }
 h1 {
     margin-block: 30px;

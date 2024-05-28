@@ -74,7 +74,7 @@ button {
     padding: 50px 140px;
     /* border: 1px solid white; */
     margin-top: 40px;
-    max-width: 60%;
+    max-width: 100%;
 }
 h3 {
     font-size: 0.9rem;

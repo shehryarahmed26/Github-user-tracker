@@ -15,10 +15,6 @@ GitHub User Tracker is a web application that allows users to search for GitHub 
   - Following
 - Responsive design for better user experience on different devices
 
-## Demo
-
-You can see a live demo of the project [here](#).
-
 ## Screenshots
 
 ![Screenshot 1]![Gitub User Tracker - Google Chrome 5_27_2024 11_45_55 PM](https://github.com/shehryarahmed26/Github-user-tracker/assets/154340943/a2915958-b528-4be8-b922-58b1d344e6ec)
